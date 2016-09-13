@@ -1,8 +1,0 @@
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.dll
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\bin\Debug\NeuralNetworkTest.pdb
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\bin\Debug\NeuralNetworks.dll
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\bin\Debug\NeuralNetworks.pdb
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.csprojResolveAssemblyReference.cache
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.dll
-D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetworkTest\obj\Debug\NeuralNetworkTest.pdb

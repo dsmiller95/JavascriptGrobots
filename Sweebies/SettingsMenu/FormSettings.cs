@@ -19,8 +19,6 @@ namespace Sweebies
 
         private void buttonLaunch_Click(object sender, EventArgs e)
         {
-
-            string sweebieName;
             int sweebieNum;
 
             if (SweebieName.Text.Length <= 0)
@@ -43,7 +41,7 @@ namespace Sweebies
             }
 
 
-            sweebieName = SweebieName.Text;
+            string sweebieName = SweebieName.Text;
 
             if (sweebieName == "empty")
             {
