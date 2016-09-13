@@ -1,0 +1,4 @@
+D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetworks.dll
+D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetworks.pdb
+D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetworks.dll
+D:\MyDocs\VisualStudio\Sweebies\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetworks.pdb
